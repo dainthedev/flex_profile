@@ -9,9 +9,13 @@ header, footer{
   padding: 25px;
 }
 
+footer{
+  color: #000;
+}
+
 /*main*/
 main{
-  background-color: #699;
+  background-color: #999;
   padding: 7px;
 }
 
