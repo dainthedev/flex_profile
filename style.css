@@ -41,6 +41,11 @@ h1{
   text-align: center;
 }
 
+a:link    {color: red}
+a:visited {color: #ffc}
+a:hover   {color: #f06}
+a:active  {color: #f39}
+
 /*group*/
 .group{
   display: flex;
