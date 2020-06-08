@@ -15,8 +15,9 @@ footer{
 
 /*main*/
 main{
-  background-color: #999;
+  background-color: #000;
   padding: 7px;
+  color: #fff;
 }
 
 main h2{
